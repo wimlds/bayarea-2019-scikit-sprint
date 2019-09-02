@@ -32,6 +32,8 @@
 * pre-event [email reminders] ()
 * List of [curated issues to work on](https://github.com/WiMLDS/nyc-2019-scikit-sprint/projects/1) (use nyc list for now)
 * Sprint GitHub repo: [WiMLDS/bayarea-2019-scikit-sprint/](https://github.com/WiMLDS/bayarea-2019-scikit-sprint)
+* [wimlds gitter](https://gitter.im/scikit-learn/wimlds)
+
 
 ### Post-sprint
 * Post-event [feedback survey](https://forms.gle/s3fawUbA79NF4NMz5)
