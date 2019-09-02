@@ -23,7 +23,7 @@
 * WiMLDS [sprint website](http://wimlds.org/opensourcesprints-2/)
 
 ### Sprint Application & Prep
-* [Bay Area Sprint website](https://sites.google.com/view/bay-area-wimlds-2019-sprint/home)
+* [Bay Area Sprint website](https://sites.google.com/view/bay-area-wimlds-2019-sprint/home)  ** KEY SITE **
 * [Application form](https://forms.gle/JJFG1qTX88k22dzB9)
 * [Application reminders] ()
 
