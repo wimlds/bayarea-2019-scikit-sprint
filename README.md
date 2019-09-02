@@ -36,7 +36,7 @@
 
 
 ### Post-sprint
-* Post-event [feedback survey](https://forms.gle/s3fawUbA79NF4NMz5)
+* Post-event [feedback survey](https://forms.gle/jmcYxWpnvPPkcQaz7)
 
 ## Contact
 Feel free to email us with any questions at info@wimlds.org
