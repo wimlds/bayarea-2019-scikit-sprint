@@ -73,7 +73,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 * Andreas Mueller:  [@amuellerml](https://twitter.com/amuellerml)
 * Valentina Borghesani: [@vborghesani](https://twitter.com/vborghesani)
 * Michael Eickenberg:  [@meickenberg](https://twitter.com/meickenberg)
-* Thomas Dupre la Tour:  [@tomdlt10](https://twitter.com/tomdlt10)
+* Tom Dupré la Tour:  [@tomdlt10](https://twitter.com/tomdlt10)
 
 ### Helpers
 * [ ] ()
