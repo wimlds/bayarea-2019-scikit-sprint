@@ -63,6 +63,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 ### Organizers
 * Reshama Shaikh:  [@reshamas](https://twitter.com/reshamas) (NYC WiMLDS Organizer)
 * Valentina Borghesani: [@vborghesani](https://twitter.com/vborghesani)
+* Pablo Damasceno:  [@DamascenoPF](https://twitter.com/DamascenoPF)
 
 ### Sponsors  
 -  UCSF [Department of Radiology & Biomedical Imaging](https://radiology.ucsf.edu)
