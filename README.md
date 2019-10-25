@@ -38,9 +38,6 @@
 ### Post-sprint
 * Post-event [feedback survey](https://forms.gle/jmcYxWpnvPPkcQaz7)
 
-## Contact
-Feel free to email us with any questions at info@wimlds.org
-
 ## Agenda for 02-Nov-2019
 - 9 am - 9:30 am: Arrive early for technical support
   - breakfast will be provided (eggs, fruit)
@@ -62,7 +59,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 ## The Team
 
 ### Organizers
-* Reshama Shaikh:  [@reshamas](https://twitter.com/reshamas) (NYC WiMLDS Organizer)
+* Reshama Shaikh:  [@reshamas](https://twitter.com/reshamas) (NYC WiMLDS Organizer) (reshama@wimlds.org)
 * Valentina Borghesani: [@vborghesani](https://twitter.com/vborghesani)
 * Pablo Damasceno:  [@DamascenoPF](https://twitter.com/DamascenoPF)
 
