@@ -43,9 +43,10 @@ Feel free to email us with any questions at info@wimlds.org
 
 ## Agenda for 02-Nov-2019
 - 9 am - 9:30 am: Arrive early for technical support
+  - breakfast will be provided (eggs, fruit)
 - 9:30 am - 12 pm: Sprint
 - 12 pm - 1 pm: Lunch will be provided
-- 1 pm - 5 pm: Sprint
+- 1 pm - 6 pm: Sprint
 
 ----
 ## Code of Conduct
