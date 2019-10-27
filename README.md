@@ -17,23 +17,18 @@
 
 ## Key Links
 
-### Background
-* [About WiMLDS open source sprints](http://wimlds.org/opensourcesprints-2/)
-* Bay Area WiMLDS [meetup event page](https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/events/263260928/)
-* WiMLDS [sprint website](http://wimlds.org/opensourcesprints-2/)
-
 ### Sprint Application & Prep
 * [Bay Area Sprint website](https://sites.google.com/view/bay-area-wimlds-2019-sprint/home)  ** KEY SITE **
 * [Application form](https://forms.gle/JJFG1qTX88k22dzB9)
-* [Application reminders] ()
 
+### Background
+* [About WiMLDS open source sprints](http://wimlds.org/opensourcesprints-2/)
+* WiMLDS [sprint website](http://wimlds.org/opensourcesprints-2/)
 
 ### Sprint Day
-* pre-event [email reminders] ()
 * List of [curated issues to work on](https://github.com/WiMLDS/nyc-2019-scikit-sprint/projects/1) (use nyc list for now)
 * Sprint GitHub repo: [WiMLDS/bayarea-2019-scikit-sprint/](https://github.com/WiMLDS/bayarea-2019-scikit-sprint)
 * [wimlds gitter](https://gitter.im/scikit-learn/wimlds)
-
 
 ### Post-sprint
 * Post-event [feedback survey](https://forms.gle/jmcYxWpnvPPkcQaz7)
