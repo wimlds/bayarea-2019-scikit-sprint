@@ -18,15 +18,12 @@
 ## Key Links
 
 ### Sprint Application & Prep
-* [Bay Area Sprint website](https://sites.google.com/view/bay-area-wimlds-2019-sprint/home)  ** KEY SITE **
+* :key: [Bay Area Sprint website](https://sites.google.com/view/bay-area-wimlds-2019-sprint/home) 
 * [Application form](https://forms.gle/JJFG1qTX88k22dzB9)
-
-### Background
-* [About WiMLDS open source sprints](http://wimlds.org/opensourcesprints-2/)
 * WiMLDS [sprint website](http://wimlds.org/opensourcesprints-2/)
 
 ### Sprint Day
-* List of [curated issues to work on](https://github.com/WiMLDS/nyc-2019-scikit-sprint/projects/1) (use nyc list for now)
+* List of [curated issues to work on](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/projects/1) 
 * Sprint GitHub repo: [WiMLDS/bayarea-2019-scikit-sprint/](https://github.com/WiMLDS/bayarea-2019-scikit-sprint)
 * [wimlds gitter](https://gitter.im/scikit-learn/wimlds)
 
@@ -149,21 +146,19 @@ We will have stick-on nametags.  Make sure to wear one to network with other att
 If you would like to blog about the event, email me (reshama@wimlds.org) and I would be happy to share and promote the blog with our community. 
 
 ---
-
-## Twitter
+# Twitter
 
 Please take photos and tweet about the event.
 
 ### Groups
 
-- Bay Area WiMLDS:  [WiMLDS_BayArea](https://twitter.com/WiMLDS_BayArea)
-
-- WiMLDS:  [@wimlds](https://twitter.com/wimlds)
-
-- UCSF: [@UCSF](https://twitter.com/Microsoft)
-
-
-
+- @UCSF
+- @UCSFimaging
+- @neo4j
+- @Microsoft & @MSFTReactor
+- @seanmylaw & @TDAmeritrade
+- @OReillyMedia
+- @wimlds
 
 ### Hashtags
 
