@@ -67,6 +67,9 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 -  UCSF [Department of Radiology & Biomedical Imaging](https://radiology.ucsf.edu)
       - UCSF Host:  [Pablo Damasceno](https://pfdamasceno.github.io)
 - UCSF [Center for Intelligent Imaging](https://intelligentimaging.ucsf.edu)
+- Microsoft
+- Neo4j
+
 
 ### Scikit-learn Host & Experts (Core Contributors)
 * Andreas Mueller:  [@amuellerml](https://twitter.com/amuellerml)
@@ -134,7 +137,7 @@ Join the scikit-learn Gitter community
 * Go through the issues (with the above labels) and become familiar with them 
 
 ### 5.  Curated List of Issues
-- [issues to do list](https://github.com/WiMLDS/nyc-2019-scikit-sprint/projects/1)
+- [issues to do list](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/projects/1)
 
 
 ---
