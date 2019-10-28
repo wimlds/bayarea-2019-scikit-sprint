@@ -8,7 +8,7 @@
 - cleaning up:  *We are in a borrowed space*
 - thank UCSF
 - thank sponsors
-- Speaking: let others speak (2 people speak once before you speak twice)
+- Speaking: let others speak:  *Two people speak once before you speak twice* (From Write/Speak/Code)
 - Women's space
 - feedback form
 
