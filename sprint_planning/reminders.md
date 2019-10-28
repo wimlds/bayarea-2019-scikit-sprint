@@ -5,7 +5,7 @@
 - bathroom
 - CoC
 - remember to tweet
-- clean up after yourselves
+- cleaning up:  *We are in a borrowed space*
 - thank UCSF
 - thank sponsors
 - Speaking: let others speak (2 people speak once before you speak twice)
