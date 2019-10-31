@@ -50,28 +50,27 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 ---
 ## The Team
 
-### Organizers
+### Organizers & Scikit-learn Host & Experts (Core Contributors)
 * Reshama Shaikh:  [@reshamas](https://twitter.com/reshamas) (NYC WiMLDS Organizer) (reshama@wimlds.org)
 * Valentina Borghesani: [@vborghesani](https://twitter.com/vborghesani)
+* Andreas Mueller:  [@amuellerml](https://twitter.com/amuellerml)
 * Pablo Damasceno:  [@DamascenoPF](https://twitter.com/DamascenoPF)
+* Michael Eickenberg:  [@meickenberg](https://twitter.com/meickenberg)
+* Tom Dupré la Tour:  [@tomdlt10](https://twitter.com/tomdlt10)
 
 ### Sponsors  
--  UCSF [Department of Radiology & Biomedical Imaging](https://radiology.ucsf.edu)
+- UCSF [Department of Radiology & Biomedical Imaging](https://radiology.ucsf.edu)
       - UCSF Host:  [Pablo Damasceno](https://pfdamasceno.github.io)
 - UCSF [Center for Intelligent Imaging](https://intelligentimaging.ucsf.edu)
 - Microsoft
 - Neo4j
+- Sean Law & Ameritrade
 
-
-### Scikit-learn Host & Experts (Core Contributors)
-* Andreas Mueller:  [@amuellerml](https://twitter.com/amuellerml)
-* Valentina Borghesani: [@vborghesani](https://twitter.com/vborghesani)
-* Michael Eickenberg:  [@meickenberg](https://twitter.com/meickenberg)
-* Tom Dupré la Tour:  [@tomdlt10](https://twitter.com/tomdlt10)
 
 ### Helpers
-* [ ] ()
-* [ ] ()
+* Xihe (Jeff) Xie
+* Areez Malyk
+* Cheng Wang
 
 ---
 
