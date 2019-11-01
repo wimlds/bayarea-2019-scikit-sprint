@@ -68,8 +68,8 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 
 
 ### Helpers
-* Xihe Xie [@axiezai](https://twitter.com/axiezai)
-* Areez Malik [@Areez-M](https://github.com/Areez-M)
+* Xihe Xie: [@axiezai](https://twitter.com/axiezai)
+* Areez Malik: [@Areez-M](https://github.com/Areez-M)
 * Cheng Wang
 
 ---
