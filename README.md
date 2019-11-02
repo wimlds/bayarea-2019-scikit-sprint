@@ -161,7 +161,7 @@ Please take photos and tweet about the event.
 
 ### Hashtags
 
-- #ScikitSprint
+- #ScikitLearnSprint
 - #opensource
 
 ## Background Articles
