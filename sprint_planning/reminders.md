@@ -24,5 +24,6 @@
 - make edits to User Guide.  From Thomas F:
 >During the sprint, it may be good for attendees read parts of the user guide and make edits if they find it unclear. For attendees with domain expertise, they read specific sections and see what improvements can be made. 
 - pair programming
+- if people are working with others (most likely because of pair programming), they should include @mention of other pair programmer in PR submission
 
 
