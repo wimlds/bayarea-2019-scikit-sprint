@@ -23,3 +23,6 @@
 - remind people to watch their GitHub notifications.  (many people use an alternative email address that they do not check often, or it gets filtered into a gmail folder)
 - make edits to User Guide.  From Thomas F:
 >During the sprint, it may be good for attendees read parts of the user guide and make edits if they find it unclear. For attendees with domain expertise, they read specific sections and see what improvements can be made. 
+- pair programming
+
+
