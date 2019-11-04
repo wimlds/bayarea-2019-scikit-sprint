@@ -6,7 +6,6 @@
   <img src="images/1280px-Scikit_learn_logo_small.svg.png" width="25%" height="25%" /> 
 
 </p>
----
 
 <p float="left">
   <img src="images/sf_sprint.png" width="99%" height="99%" />
