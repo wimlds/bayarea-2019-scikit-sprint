@@ -1,7 +1,4 @@
-<p float="left">
-  <img src="images/sf_sprint.png" width="99%" height="99%" />
 
-</p>
 
 <p float="left">
   <img src="images/blue_logo_full.jpg" height="100" width="400" />
@@ -12,8 +9,10 @@
 ---
 
 <p float="left">
-  <img src="images/nyc_sprint.png" width="99%" height="99%" />
+  <img src="images/sf_sprint.png" width="99%" height="99%" />
+
 </p>
+
 
 ---
 
