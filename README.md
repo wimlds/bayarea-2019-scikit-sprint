@@ -9,7 +9,6 @@
 
 <p float="left">
   <img src="images/sf_sprint.png" width="99%" height="99%" />
-
 </p>
 
 
