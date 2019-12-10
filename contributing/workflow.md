@@ -64,6 +64,15 @@ git pull upstream master
 git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 ```
 
+### REMINDER
+Make sure to merge master into your branch. 
+```bash
+git pull upstream master
+git push origin master
+git checkout branch_name
+git pull upstream master
+git push origin branch_names
+````
 
 #### Build from source
 ```bash
